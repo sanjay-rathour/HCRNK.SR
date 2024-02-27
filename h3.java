@@ -23,7 +23,7 @@ public class Solution {
         System.out.println(s + t);
         
 
-        /* Declare second integer, double, and String variables. */
+        /* Declare second integer,*/
 
         /* Read and save an integer, double, and String to your variables.*/
         // Note: If you have trouble reading the entire String, please go back and review the Tutorial closely.
