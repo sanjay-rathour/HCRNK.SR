@@ -1,7 +1,7 @@
 import java.util.Scanner;
 // h2 commit
 public class Solution {
-
+gg
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
        
