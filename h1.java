@@ -11,7 +11,7 @@ public class Solution {
         
         sc.close();
         // Complete this line
-        // Complete this line
+        // Complete the line
 
         System.out.println(a);
            System.out.println(b);
