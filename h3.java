@@ -12,7 +12,7 @@ public class Solution {
         String s = "HackerRank ";
 		
         Scanner scan = new Scanner(System.in);
-        
+	    
         int j = scan.nextInt();
         double e = scan.nextDouble();
         scan.nextLine();
