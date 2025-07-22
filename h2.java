@@ -12,7 +12,7 @@ public class Solution {
           
         String s = scan.nextLine();
         scan.close();
-        
+          
         
         
 
