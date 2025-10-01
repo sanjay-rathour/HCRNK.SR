@@ -21,7 +21,7 @@ public class Solution {
         System.out.println(d + e);
         System.out.println(s + t);
         
-
+ 
         /* Declare second integer,*/
 
         /* Read and save an integer, double, and String to your variables.*/
