@@ -15,7 +15,7 @@ public class Solution {
           
         
         
-
+  
         // Write your code here.
 
         System.out.println("String: " + s);
